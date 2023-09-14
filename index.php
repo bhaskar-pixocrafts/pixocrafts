@@ -5,10 +5,10 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-6">
-
+                <div><h1>test heading 1 at left sight.</h1></div>
             </div>
             <div class="col-lg-6">
-                
+                <div><p>test paragraph at right sight.</p></div>
             </div>
         </div>
     </div>
