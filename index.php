@@ -1,6 +1,9 @@
 <?php include('header.php'); ?>
 
 
+<div class="test-section"></div>
+
+
 <section data-scroll class="hero-section">
     <div class="container h-100 d-flex">
         <div class="hero-content align-self-center">
@@ -26,7 +29,6 @@
         </div>
     </div>
 </section>
-
 
 <section class="horizontal-scroll" id="sectionPin">
 
@@ -181,7 +183,6 @@
     </div>
 </section>
 
-
 <section class="stats-section" data-bgclass="dynamic-bg" data-bgcolor="#ffffff">
     <div class="container">
         <div class="row">
@@ -235,7 +236,6 @@
         </div>
     </div>
 </section>
-
 
 <section data-bgclass="dynamic-bg-prev" data-bgcolor="#1d1d1d" class="show-cases" id="scroll-d-test">
     <div class="container">
