@@ -9,6 +9,7 @@
             </div>
             <div class="col-lg-6">
                 <div><p>test paragraph at right sight.</p></div>
+                <h2>dfgdfgdfg</h2>
             </div>
         </div>
     </div>
